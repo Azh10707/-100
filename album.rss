@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>視覺小組報告王建智、王睿謙、楊秝安、黃晨祐</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>exp1</title>
+            <link>slides/exp1.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp1.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp1.jpg" width="660" height="499"/>
+            <guid isPermaLink="false">slides/exp1.jpg</guid>
+        </item>
+        <item>
+            <title>exp2</title>
+            <link>slides/exp2.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp2.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp2.jpg" width="620" height="800"/>
+            <guid isPermaLink="false">slides/exp2.jpg</guid>
+        </item>
+        <item>
+            <title>exp3</title>
+            <link>slides/exp3.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp3.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp3.jpg" width="718" height="718"/>
+            <guid isPermaLink="false">slides/exp3.jpg</guid>
+        </item>
+        <item>
+            <title>exp4</title>
+            <link>slides/exp4.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp4.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp4.jpg" width="556" height="800"/>
+            <guid isPermaLink="false">slides/exp4.jpg</guid>
+        </item>
+        <item>
+            <title>exp5</title>
+            <link>slides/exp5.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp5.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp5.jpg" width="532" height="800"/>
+            <guid isPermaLink="false">slides/exp5.jpg</guid>
+        </item>
+        <item>
+            <title>exp6</title>
+            <link>slides/exp6.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp6.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp6.jpg" width="602" height="800"/>
+            <guid isPermaLink="false">slides/exp6.jpg</guid>
+        </item>
+        <item>
+            <title>exp7</title>
+            <link>slides/exp7.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp7.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp7.jpg" width="667" height="497"/>
+            <guid isPermaLink="false">slides/exp7.jpg</guid>
+        </item>
+        <item>
+            <title>exp8</title>
+            <link>slides/exp8.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp8.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp8.jpg" width="669" height="501"/>
+            <guid isPermaLink="false">slides/exp8.jpg</guid>
+        </item>
+        <item>
+            <title>exp9</title>
+            <link>slides/exp9.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp9.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp9.jpg" width="667" height="503"/>
+            <guid isPermaLink="false">slides/exp9.jpg</guid>
+        </item>
+        <item>
+            <title>exp10</title>
+            <link>slides/exp10.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp10.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp10.jpg" width="552" height="800"/>
+            <guid isPermaLink="false">slides/exp10.jpg</guid>
+        </item>
+        <item>
+            <title>exp11</title>
+            <link>slides/exp11.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp11.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp11.jpg" width="535" height="800"/>
+            <guid isPermaLink="false">slides/exp11.jpg</guid>
+        </item>
+        <item>
+            <title>exp12</title>
+            <link>slides/exp12.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp12.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp12.jpg" width="533" height="800"/>
+            <guid isPermaLink="false">slides/exp12.jpg</guid>
+        </item>
+        <item>
+            <title>exp13</title>
+            <link>slides/exp13.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp13.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp13.jpg" width="536" height="800"/>
+            <guid isPermaLink="false">slides/exp13.jpg</guid>
+        </item>
+        <item>
+            <title>exp14</title>
+            <link>slides/exp14.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp14.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp14.jpg" width="532" height="800"/>
+            <guid isPermaLink="false">slides/exp14.jpg</guid>
+        </item>
+        <item>
+            <title>exp15</title>
+            <link>slides/exp15.jpg</link>
+            <pubDate>Sat, 27 May 2023 22:59:13 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/exp15.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/exp15.jpg" width="534" height="800"/>
+            <guid isPermaLink="false">slides/exp15.jpg</guid>
+        </item>
+    </channel>
+</rss>
